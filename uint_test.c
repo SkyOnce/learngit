@@ -10,6 +10,7 @@
 int main(void)
 {
 	unsigned int i = 0x00ff0000;
+	
 	printf("----i = %#X\n",i);
 
 	return 0;
